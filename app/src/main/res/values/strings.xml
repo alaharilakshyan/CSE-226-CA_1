@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CSE226</string>
+    <string name="complete_purchase">Complete Purchase</string>
+    <string name="processing_payment">Processing secure payment&#8230;</string>
+    <string name="payment_complete">Payment Complete! Thank you for your purchase.</string>
+</resources>
